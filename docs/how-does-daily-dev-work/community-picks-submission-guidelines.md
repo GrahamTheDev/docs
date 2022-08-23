@@ -54,6 +54,27 @@ Your own posts, promotional content, top 10s, listicles, vs articles, low qualit
 - **Shallow or non-professional content** - Content that only skims the surface of a subject. Articles should contain enough information to fully explain a point or answer a specific question fully. 
 - **Clickbait** - If an article does not deliver on the promise of the title we consider that clickbait. So if the title was “the ultimate expert’s guide to xxx” and it was only an introduction to what that technology is, we would consider that clickbait. Additionally titles that give no indication whatsoever of the contents of the article will likely be considered clickbait “You should start using this one weird trick today”.  
 
+### Rejection Scenarios
+There are multiple reasons why a submission to Community Picks could fail.
+
+#### Before submission
+| Message | Notes |
+| --- | --- |
+| You do not have sufficient permissions and or reputation to submit a link to Community Picks yet. | You need 250 reputation and to have not received a ban from posting Community Picks in order to be able to submit a link |
+| You can only submit 3 links per day and have reached your limit. Please try again tomorrow. | None |
+| The URL you submitted is not valid, please check and try again. | Please include the full url including "https://" etc. when submitting a link |
+| This post has previously appeared in the daily.dev feed but was deleted and cannot be added to the feed again. | We may delete posts that do not meet our content guidelines. Once a post has been deleted it cannot be added to the daily.dev feed again |
+
+#### After submission (via email)
+| Failure reason | Notes |
+| --- | --- |
+| We ran into a problem adding this article, our team is looking into it. | This is a generic fallback which normally displays when our crawler could not extract some key information such as the title of the article | 
+| This post is already on daily.dev! | If you manage to submit an article at the same time as someone else it may be possible that the post will exist once we come to process it and so you will receive this message |
+| The article you submitted is written by an author who violated our community guidelines and is banned. We no longer accept submissions from this author. | It is rare we ban authors, but occasionally they consistently post spammy or NSFW content that is not suitable for daily.dev. We will not accept any articles written by these authors. |
+| You can’t submit your own articles as community picks, please suggest articles by other people. | Community Picks are not designed for self promotion, instead try submitting articles written by others that you think will benefit the community. |
+| The article you submitted is behind a paywall, so we cannot add it to the daily.dev feed. | We try our best to make sure all articles shared are free for the community. If we detect a paywall then an article will not be accepted for the feed. |
+| There was an error and we were unable to gather the required information from the URL submitted to add it to our feed. | If a site has an unusual structure our crawler may not be able to parse the page correctly to create the tags and TLDR. |
+
 ## What happens if I submit an article that is deleted?
 
 We operate a 2-strike system.
