@@ -54,10 +54,10 @@ Your own posts, promotional content, top 10s, listicles, vs articles, low qualit
 - **Shallow or non-professional content** - Content that only skims the surface of a subject. Articles should contain enough information to fully explain a point or answer a specific question fully. 
 - **Clickbait** - If an article does not deliver on the promise of the title we consider that clickbait. So if the title was “the ultimate expert’s guide to xxx” and it was only an introduction to what that technology is, we would consider that clickbait. Additionally titles that give no indication whatsoever of the contents of the article will likely be considered clickbait “You should start using this one weird trick today”.  
 
-### Rejection Scenarios
+## Rejection Scenarios
 There are multiple reasons why a submission to Community Picks could fail.
 
-#### Before submission
+### Before submission
 | Message | Notes |
 | --- | --- |
 | You do not have sufficient permissions and or reputation to submit a link to Community Picks yet. | You need 250 reputation and to have not received a ban from posting Community Picks in order to be able to submit a link |
@@ -65,7 +65,7 @@ There are multiple reasons why a submission to Community Picks could fail.
 | The URL you submitted is not valid, please check and try again. | Please include the full url including "https://" etc. when submitting a link |
 | This post has previously appeared in the daily.dev feed but was deleted and cannot be added to the feed again. | We may delete posts that do not meet our content guidelines. Once a post has been deleted it cannot be added to the daily.dev feed again |
 
-#### After submission (via email)
+### After submission (via email)
 | Failure reason | Notes |
 | --- | --- |
 | We ran into a problem adding this article, our team is looking into it. | This is a generic fallback which normally displays when our crawler could not extract some key information such as the title of the article | 
